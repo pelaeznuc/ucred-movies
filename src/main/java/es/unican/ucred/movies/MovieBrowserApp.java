@@ -13,7 +13,7 @@ import java.awt.*;
 public class MovieBrowserApp {
     public static void main(String[] args) {
         // Set system look and feel
-        try {
+     //   try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (Exception e) {
             // Use default look and feel
